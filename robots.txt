@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://honoluluplumbingsquad.com/sitemap.xml
